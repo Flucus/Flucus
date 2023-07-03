@@ -18,7 +18,7 @@ Thank you for visiting my website and I hope you find it informative!
 </a>
 
 <a href="https://github-readme-stats.vercel.app">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Flucus&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Flucus&layout=compact&theme=dark" />
 </a>
 </div>
 
