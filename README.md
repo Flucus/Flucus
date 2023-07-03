@@ -8,4 +8,6 @@ I am fluent in both English and Chinese Traditional (Cantonese) and enjoy commun
 
 Thank you for visiting my website and I hope you find it informative!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flucus&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Flucus's GitHub stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs](https://github-readme-stats.vercel.app/api?username=Flucus&rank_icon=github&show_icons=true&show=reviews&theme=github_dark))
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flucus&layout=donut-vertical&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
