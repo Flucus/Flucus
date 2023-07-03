@@ -23,6 +23,6 @@ Thank you for visiting my website and I hope you find it informative!
 ---
 
 <p align="center"> 
-  Visitor count<br>
+  Visitor count<br><br>
   <img src="https://profile-counter.glitch.me/Flucus/count.svg" />
 </p>
