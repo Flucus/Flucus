@@ -1,4 +1,4 @@
-About Me:
+### About Me:
 
 Hello and welcome to my personal website! My name is Oscar and I am a technically proficient individual with skills in programming languages such as Java, Python, and C#, as well as web languages including HTML, CSS, and JavaScript. I am also well-versed in server management using Linux (Debian) for Raspberry Pi, as well as database management using SQL. In addition to this, I have experience in setting up networks using OpenWrt, DNS servers, and CDN with ddns.
 
