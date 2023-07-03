@@ -13,8 +13,8 @@ Thank you for visiting my website and I hope you find it informative!
 ---
 
 <div align="center"> 
-<a href="https://github-readme-stats.vercel.app">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Flucus&&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=github&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" />
+<a href="https://github.com/brunobritodev/awesome-github-stats">
+  <img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/Flucus?cardType=github&theme=dark&preferLogin=false" />
 </a>
 
 <a href="https://github-readme-stats.vercel.app">
