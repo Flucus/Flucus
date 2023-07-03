@@ -7,3 +7,5 @@ Aside from my technical skills, I am also proficient in Microsoft Office applica
 I am fluent in both English and Chinese Traditional (Cantonese) and enjoy communicating with people from different cultures. If you'd like to connect with me, feel free to follow me on Twitter, Instagram, or Facebook or check out my projects on Github or my videos on Youtube.
 
 Thank you for visiting my website and I hope you find it informative!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flucus&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
