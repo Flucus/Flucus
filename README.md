@@ -12,11 +12,11 @@ Thank you for visiting my website and I hope you find it informative!
 
 ---
 
-<a href="https://github.com/Flucus">
+<a href="https://github-readme-stats.vercel.app/api?username=Flucus&rank_icon=github&show_icons=true&show=reviews&theme=github_dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Flucus&rank_icon=github&show_icons=true&show=reviews&theme=github_dark" />
 </a>
 
-<a href="https://github.com/Flucus">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Flucus&layout=donut&theme=github_dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flucus&layout=donut&theme=github_dark" />
 </a>
 
