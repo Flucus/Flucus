@@ -11,6 +11,13 @@ I am fluent in both English and Chinese Traditional (Cantonese) and enjoy commun
 Thank you for visiting my Github!
 
 ---
+<div align="center"> 
+  <a href="http://github-profile-summary-cards.vercel.app">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flucus&theme=dark" />
+  </a>
+</div>
+
+<br>
 
 <div align="center"> 
 <a href="https://github.com/brunobritodev/awesome-github-stats">
@@ -20,6 +27,17 @@ Thank you for visiting my Github!
 <a href="https://github-readme-stats.vercel.app">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Flucus&layout=compact&theme=dark" />
 </a>
+</div>
+
+<br>
+
+<div align="center"> 
+  <a href="https://github-readme-streak-stats.herokuapp.com/">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Flucus&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=338" />
+  </a>
+  <a href="http://github-profile-summary-cards.vercel.app">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Flucus&theme=dark&utcOffset=8" />
+  </a>
 </div>
 
 ---
