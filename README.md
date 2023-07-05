@@ -13,7 +13,7 @@ Thank you for visiting my Github!
 ---
 <div align="center"> 
   <a href="http://github-profile-summary-cards.vercel.app">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flucus&theme=dar" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flucus&theme=dark" />
   </a>
 </div>
 
@@ -25,7 +25,7 @@ Thank you for visiting my Github!
 </a>
 
 <a href="https://github-readme-stats.vercel.app">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Flucus&layout=compact&theme=dar" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Flucus&layout=compact&theme=dark" />
 </a>
 </div>
 
