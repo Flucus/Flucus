@@ -1,4 +1,4 @@
-### About Me:
+### About Me
 
 ---
 
@@ -11,7 +11,7 @@ I am fluent in both English and Chinese Traditional (Cantonese) and enjoy commun
 Thank you for visiting my Github!
 
 ---
-<div align="center"> 
+<div align="center">
   <a href="https://github-profile-summary-cards.vercel.app">
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flucus&theme=dark" />
   </a>
@@ -19,21 +19,22 @@ Thank you for visiting my Github!
 
 <br>
 
-<div align="center"> 
-<a href="https://github.com/brunobritodev/awesome-github-stats">
-  <img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/Flucus/preview?cardType=level-alternate&theme=dark&preferLogin=true" />
-</a>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Flucus&include_all_commits=true&count_private=true&show_icons=true&theme=dark" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Flucus&theme=dark&layout=compact" />
+  </a>
 
-<a href="https://github-readme-stats.vercel.app">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Flucus&theme=dark&layout=compact" />
-</a>
 </div>
 
 <br>
 
 ---
 
-<p align="center"> 
+<p align="center">
   Visitor count<br><br>
   <img src="https://profile-counter.glitch.me/Flucus/count.svg" />
 </p>
