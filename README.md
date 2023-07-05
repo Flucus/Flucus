@@ -21,7 +21,7 @@ Thank you for visiting my Github!
 
 <div align="center"> 
 <a href="https://github.com/brunobritodev/awesome-github-stats">
-  <img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/Flucus?cardType=github&theme=dark&preferLogin=false" />
+  <img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/FLucus?cardType=level-alternate&theme=dark&preferLogin=true" />
 </a>
 
 <a href="https://github-readme-stats.vercel.app">
@@ -30,15 +30,6 @@ Thank you for visiting my Github!
 </div>
 
 <br>
-
-<div align="center"> 
-  <a href="https://github-readme-streak-stats.herokuapp.com/">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Flucus&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=338" />
-  </a>
-  <a href="http://github-profile-summary-cards.vercel.app">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Flucus&theme=dark&utcOffset=8" />
-  </a>
-</div>
 
 ---
 
