@@ -21,7 +21,7 @@ Thank you for visiting my Github!
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=165 align="center" src="https://github-readme-stats-xi-green-15.vercel.app/api?username=Flucus&include_all_commits=true&count_private=true&show_icons=true&theme=dark" />
+    <img height=165 align="center" src="https://github-readme-stats-xi-green-15.vercel.app/api?username=Flucus&count_private=true&show_icons=true&theme=dark" />
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
