@@ -11,7 +11,25 @@ I am fluent in both English and Chinese Traditional (Cantonese) and enjoy commun
 Thank you for visiting my Github!
 
 ---
+<div align="center"> 
+  <a href="http://github-profile-summary-cards.vercel.app">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flucus&theme=dark" />
+  </a>
+</div>
 
+<br>
+
+<div align="center"> 
+<a href="https://github.com/brunobritodev/awesome-github-stats">
+  <img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/FLucus?cardType=level-alternate&theme=dark&preferLogin=true" />
+</a>
+
+<a href="https://github-readme-stats.vercel.app">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Flucus&layout=compact&theme=dark" />
+</a>
+</div>
+
+<br>
 
 ---
 
