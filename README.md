@@ -13,7 +13,7 @@ Thank you for visiting my Github!
 ---
 <div align="center"> 
   <a href="http://github-profile-summary-cards.vercel.app">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details&theme=dark?username=Flucus" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flucus&theme=dark" />
   </a>
 </div>
 
