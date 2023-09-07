@@ -21,11 +21,11 @@ Thank you for visiting my Github!
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Flucus&count_private=true&show_icons=true&theme=dark" />
+    <img height=183 align="center" src="https://github-readme-stats.vercel.app/api?username=Flucus&count_private=true&show_icons=true&theme=dark" />
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flucus&layout=compact&langs_count=12&theme=dark" />
+    <img height=183 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flucus&layout=compact&langs_count=12&theme=dark" />
   </a>
 
 </div>
