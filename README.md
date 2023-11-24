@@ -6,7 +6,7 @@ Hello and welcome to my Github! My name is Oscar and I am a technically proficie
 
 Aside from my technical skills, I am also proficient in Microsoft Office applications such as Word, Excel, PowerPoint, and Access. My typing speed in English is around 50-60 words per minute and in Chinese, it is around 30 words per minute.
 
-I am fluent in both English and Chinese Traditional (Cantonese) and enjoy communicating with people from different cultures. If you'd like to connect with me, feel free to follow me on Twitter, Instagram, or Facebook or check out my projects on Github or my videos on Youtube.
+I am fluent in both English and Chinese Traditional (Cantonese) and enjoy communicating with people from different cultures. If you'd like to connect with me, feel free to follow me on Twitter, Instagram, or Facebook or check out my projects on Github or my videos on YouTube.
 
 Thank you for visiting my Github!
 
@@ -35,7 +35,7 @@ Thank you for visiting my Github!
 ---
 
 <p align="center">
-  Visitor count<br><br>
+  Visitor counter<br><br>
   <img src="https://profile-counter.glitch.me/Flucus/count.svg" />
 </p>
 
