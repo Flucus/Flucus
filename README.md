@@ -1,14 +1,14 @@
-### About Me
+**About Me**
 
 ---
 
-Hello and welcome to my Github! My name is Oscar and I am a technically proficient individual with skills in programming languages such as Java, Python, and C#, as well as web languages including HTML, CSS, and JavaScript. I am also well-versed in server management using Linux (Debian) for Raspberry Pi, as well as database management using SQL. In addition to this, I have experience in setting up networks using OpenWrt, DNS servers, and CDN with ddns.
+Hello! I am Oscar HO. My academic journey has equipped me with a strong foundation in programming languages such as Java, Python, and C#, along with web development skills in HTML, CSS, and JavaScript. 
 
-Aside from my technical skills, I am also proficient in Microsoft Office applications such as Word, Excel, PowerPoint, and Access. My typing speed in English is around 50-60 words per minute and in Chinese, it is around 30 words per minute.
+I have hands-on experience in managing Linux servers, setting up databases using SQL, and configuring networks. Additionally, my proficiency extends to the Microsoft Office Suite, and I can type at speeds of 50-60 words per minute in English and 30 in Traditional Chinese (Cantonese).
 
-I am fluent in both English and Chinese Traditional (Cantonese) and enjoy communicating with people from different cultures. If you'd like to connect with me, feel free to follow me on Twitter, Instagram, or Facebook or check out my projects on Github or my videos on YouTube.
+Beyond academics, I am passionate about technology and innovation. I enjoy working on personal projects with Raspberry Pi and am always eager to learn and explore new technological realms. I am fluent in both English and Traditional Chinese (Cantonese), which allows me to engage with diverse cultures and communities.
 
-Thank you for visiting my Github!
+Let's connect and collaborate on exciting projects!
 
 ---
 <div align="center">
