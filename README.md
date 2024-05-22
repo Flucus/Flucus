@@ -4,7 +4,7 @@
 
 Hello! I am Oscar HO. My academic journey has equipped me with a strong foundation in programming languages such as Java, Python, and C#, along with web development skills in HTML, CSS, and JavaScript. 
 
-I have hands-on experience in managing Linux servers, setting up databases using SQL, and configuring networks. Additionally, my proficiency extends to the Microsoft Office Suite, and I can type at speeds of 50-60 words per minute in English and 30 in Traditional Chinese (Cantonese).
+I have hands-on experience in managing Linux servers, setting up databases using SQL, and configuring networks. Additionally, my proficiency extends to the Microsoft Office Suite, and I can type at speeds of 50~60 words per minute in English and 30 in Traditional Chinese (Cantonese).
 
 Beyond academics, I am passionate about technology and innovation. I enjoy working on personal projects with Raspberry Pi and am always eager to learn and explore new technological realms. I am fluent in both English and Traditional Chinese (Cantonese), which allows me to engage with diverse cultures and communities.
 
