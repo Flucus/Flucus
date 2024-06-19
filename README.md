@@ -1,5 +1,5 @@
 ## About Me
-Hello! I am Oscar HO, a Software Engineering student with a solid foundation in various programming languages and web development technologies. My technical proficiency includes:
+Hello! I am Oscar HO, a Computer Science student with a solid foundation in various programming languages and web development technologies. My technical proficiency includes:
 
 - **Programming Languages:** Proficient in Java, Python, and C#.
 - **Web Development:** Skilled in HTML, CSS, and JavaScript.
