@@ -46,6 +46,7 @@ Feel free to connect with me or check out my projects!
 
 - [X](https://x.com/Flucus0929/)
 - [Instagram](https://www.instagram.com/flucus.idv.hk/)
+- [Threads](https://www.threads.net/@flucus.idv.hk/)
 - [Facebook](https://www.facebook.com/flucus0929)
 - [GitHub](https://github.com/Flucus)
 - [YouTube](https://www.youtube.com/channel/UCDPqwAfdIp-YyGrNL7T4n6g)
