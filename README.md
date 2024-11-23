@@ -1,7 +1,7 @@
 ## About Me
 Hello! I am Oscar HO, a Computer Science student with a solid foundation in various programming languages and web development technologies. My technical proficiency includes:
 
-- **Programming Languages:** Proficient in Java, Python, and C#.
+- **Programming Languages:** Proficient in Java, Python, Swift, and C#.
 - **Web Development:** Skilled in HTML, CSS, and JavaScript.
 - **Server Management:** Experienced with Linux on Raspberry Pi.
 - **Database Management:** Capable with SQL databases.
