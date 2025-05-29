@@ -37,7 +37,7 @@ An AI-powered audio description platform designed for the visually impaired. Aud
 - 🗣️ Multilingual narration with customizable voice settings
 - 📱 Simple mobile/web interfaces with support for voice control and Siri integration
 
-🛠️ Built with: **Python**, **OpenAI**, **React**, **FastAPI**, **Firebase**
+🛠️ Built with: **Python**, **OpenAI**, **React**, **FastAPI**
 
 ---
 
