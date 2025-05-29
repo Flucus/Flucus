@@ -1,5 +1,5 @@
 ## 👋 About Me
-Hi! I'm **Oscar HO**, a Computer Science student passionate about accessibility, creative technology, and user-centric design. I enjoy working on impactful tech projects, from AI to haptics, that promote social inclusion.
+Hi! I'm **Oscar HO**, a Computer Science student passionate about accessibility, creative technology, and user-centric design. I enjoy working on impactful tech projects, from AI-driven accessibility tools to mobile experiences that empower users.
 
 I have a strong foundation in full-stack development, mobile apps, and system administration. Outside of academics, I like to play the piano and experiment with how technology can improve everyday experiences.
 
