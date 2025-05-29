@@ -1,50 +1,65 @@
-## About Me
-Hello! I am Oscar HO, a Computer Science student with a solid foundation in various programming languages and web development technologies. My technical proficiency includes:
+## 👋 About Me
+Hi! I'm **Oscar HO**, a Computer Science student passionate about accessibility, creative technology, and user-centric design. I enjoy working on impactful tech projects, from AI to haptics, that promote social inclusion.
 
-- **Programming Languages:** Proficient in Java, Python, Swift, and C#.
-- **Web Development:** Skilled in HTML, CSS, and JavaScript.
-- **Server Management:** Experienced with Linux on Raspberry Pi.
-- **Database Management:** Capable with SQL databases.
-- **Networking:** Knowledgeable in configuring networks with Cloudflare.
-- **Office Suite:** Well-versed in Microsoft Office applications including Word, Excel, PowerPoint, and Access.
-- **Typing Speed:** Comfortable typing at 50-60 wpm in English and 30 wpm in Traditional Chinese (Cantonese).
-- **Languages:** Fluent in English and Traditional Chinese (Cantonese).
+I have a strong foundation in full-stack development, mobile apps, and system administration. Outside of academics, I like to play the piano and experiment with how technology can improve everyday experiences.
 
-I am passionate about technology and enjoy working on personal projects, particularly those involving Raspberry Pi. My fluency in multiple languages allows me to connect with diverse cultures and communities, enhancing my collaborative capabilities.
+- 🧠 **Programming:** Java, Python, Swift, C#
+- 🌐 **Web Dev:** HTML, CSS, JavaScript, PHP
+- 🖥️ **Dev Tools:** Figma, Git, Visual Studio Code, IntelliJ, Xcode, Android Studio
+- 🐧 **Sysadmin:** Proficient in Linux commands, SQL databases, Cloudflare configuration
+- 🌍 **Languages:** Fluent in English, Cantonese, and Mandarin
+- ⌨️ **Typing:** 50–60 wpm (English), 30 wpm (Chinese)
 
-Feel free to connect with me or check out my projects!
+---
 
-## Github Stats
+## 🚀 Projects
+
+### 🌀 Haptic Jam (2025 – Present)
+An inclusive iOS platform that transforms music into a tactile and visual experience for the deaf and hard-of-hearing community. Users can feel rhythm and melody through Core Haptics and visual synchronization.
+
+**Key Features:**
+- 🎼 MIDI to vibration mapping via Core Haptics
+- 📲 iPhone Taptic Engine integration for rich feedback
+- 🔁 Real-time response for beat and pitch
+- 👥 Social co-creation and education applications
+
+🛠️ Built with: **Swift**, **Core Haptics**, **Taptic Engine**, **MIDIKit**  
+
+---
+
+### 🔊 AudioSense (2023 – 2025)
+An AI-powered audio description platform designed for the visually impaired. AudioSense leverages machine learning and cloud infrastructure to streamline the end-to-end process—from video analysis to narration—making visual media more inclusive.
+
+**Key Features:**
+- 📊 AI Video Accessibility Assessment to analyze background audio and visual complexity
+- 🎞️ Scene analysis with frame-level object/event recognition
+- ✍️ Script generation using AI-driven summarization and context matching
+- 🗣️ Multilingual narration with customizable voice settings
+- 📱 Simple mobile/web interfaces with support for voice control and Siri integration
+
+🛠️ Built with: **Python**, **OpenAI**, **React**, **FastAPI**, **Firebase**
+
+---
+
+## 📊 GitHub Stats
 <div align="center">
-  <a href="https://github-profile-summary-cards.vercel.app">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flucus&theme=dark" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flucus&theme=dark" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Flucus&count_private=true&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flucus&layout=compact&langs_count=12&theme=dark" />
 </div>
 
-<br>
+---
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=183 align="center" src="https://github-readme-stats.vercel.app/api?username=Flucus&count_private=true&show_icons=true&theme=dark" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=183 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flucus&layout=compact&langs_count=12&theme=dark" />
-  </a>
-
-</div>
-
-<br>
-
-##  Visitor counter
-
+## 👀 Visitor Counter
 <p align="center">
   <img src="https://profile-counter.glitch.me/Flucus/count.svg" />
 </p>
 
-## Connect with Me
+---
 
-- [X](https://x.com/Flucus0929/)
+## 🔗 Connect With Me
+- [X (Twitter)](https://x.com/Flucus0929/)
 - [Instagram](https://www.instagram.com/flucus.idv.hk/)
 - [Threads](https://www.threads.net/@flucus.idv.hk/)
 - [Facebook](https://www.facebook.com/flucus0929)
