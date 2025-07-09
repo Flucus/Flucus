@@ -51,13 +51,6 @@ An AI-powered audio description platform designed for the visually impaired. Aud
 
 ---
 
-## 👀 Visitor Counter
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Flucus/count.svg" />
-</p>
-
----
-
 ## 🔗 Connect With Me
 - [X (Twitter)](https://x.com/Flucus0929/)
 - [Instagram](https://www.instagram.com/flucus.idv.hk/)
