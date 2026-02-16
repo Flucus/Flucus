@@ -39,10 +39,3 @@ An AI-powered audio description platform designed for the visually impaired. Aud
 
 🛠️ Built with: **Python**, **OpenAI**, **React**, **FastAPI**
 
----
-
-## 🔗 Connect With Me
-- [X (Twitter)](https://x.com/Flucus0929/)
-- [Instagram](https://www.instagram.com/oscar_ho0929/)
-- [GitHub](https://github.com/Flucus)
-- [YouTube](https://www.youtube.com/channel/UCDPqwAfdIp-YyGrNL7T4n6g)
